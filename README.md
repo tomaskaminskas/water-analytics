@@ -1,5 +1,6 @@
 # water-analytics
-
+## Idea  
+https://blogs.gnome.org/jsparber/2020/01/18/digitizing-a-analog-water-meter/
 ## Hardware  
 -RPi with 2021-10-30-raspios-bullseye-armhf image, burned with 'Raspberry Pi imager', CTRL+Shift+X : SSH enabled, default Pi psw, WiFi connection configured  
 -sudo aspi-config -> advanced -> extended disk  
